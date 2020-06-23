@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "testing jwt tokens using node js",
   "main": "jwt_generation.js",
-  "start": "jwt_generation.js",
+  "start": "node jwt_generation.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
